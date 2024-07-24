@@ -1,0 +1,11 @@
+/* Agrandir les champs d'entrée */
+.form-control-lg {
+  height: 50px; /* Hauteur des champs d'entrée */
+  font-size: 1.25rem; /* Taille du texte dans les champs */
+}
+
+/* Agrandir le bouton de soumission */
+.btn-lg {
+  font-size: 1.25rem; /* Taille du texte dans le bouton */
+  padding: 10px 20px; /* Espacement interne du bouton */
+}
